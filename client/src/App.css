@@ -1,0 +1,20 @@
+input{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  height: 40px;
+  width: 300px;
+  border: 1px solid rgb(222, 222, 222);
+  margin-bottom: -1rem;
+  
+  padding-left: 10px;
+}
+input:focus{
+   outline: 1px solid blue;
+}
+input[type=file]{
+    background-color: rgb(12, 0, 185);
+    color: white;
+}
+/* #file-upload-button{
+    background-color: black;
+} */

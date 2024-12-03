@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "name":"laptop",
+            "price":150000,
+            "model":"Lenevo T470",
+            "color":"black",
+            "image_url":"https://5.imimg.com/data5/SELLER/Default/2024/4/406179974/DC/HB/LF/3825297/lenovo-thinkpad-t470-500x500.jpg"
+        },
+        {
+            "name":"laptop",
+            "price":75000,
+            "model":"Hp pavilion 15",
+            "color":"white",
+            "image_url":"https://images-cdn.ubuy.co.in/6357c4bb1ffe3c0c9f128ff3-2019-newest-hp-pavilion-15-15-6-hd.jpg"
+        },
+        {
+            "name":"laptop",
+            "price":55000,
+            "model":"Dell inspiron 14 plus",
+            "color":"white",
+            "image_url":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/7441/pdp/notebook-inspiron-14-plus-7441-pdp-compatibility-windows-snapdragon.psd?fmt=jpg&wid=5000&hei=2812"
+        }
+    ]
+}
